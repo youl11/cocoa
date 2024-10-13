@@ -1,0 +1,12 @@
+.status-bar__column{ 
+    display: flex;
+    justify-content: space-between;
+
+}
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.status-bar__column:first-child span {
+    margin-right: 5px;
+}
