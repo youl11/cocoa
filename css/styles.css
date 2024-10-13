@@ -1,8 +1,11 @@
-.status-bar__column{ 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=MuseoModerno:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wdth@0,75..100;1,75..100&display=swap');
+
+.status-bar{ 
     display: flex;
     justify-content: space-between;
 
 }
+
 
 body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
